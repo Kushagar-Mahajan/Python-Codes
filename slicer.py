@@ -1,6 +1,6 @@
 #slice is to take out particular text from a string using their indexes
 word = "Encyclopedia"
-a = word[0] #will print out word at index 0
+a = word[0] #will print out word written at index 0
 print(a)
 
 #here [a:b:c] is the format
